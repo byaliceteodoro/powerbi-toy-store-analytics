@@ -36,7 +36,7 @@ Analisar métricas de negócio e gerar insights sobre a performance de vendas, c
 ---
 
 ## 📷 Dashboard
-<img width="1146" height="638" alt="image" src="https://github.com/user-attachments/assets/2f4129e5-f94e-4537-b389-86b76569540b" />
+<img width="1020" height="573" alt="image" src="https://github.com/user-attachments/assets/13e07436-db5d-46dc-9c23-ceda45d0db1c" />
 
 ---
 
